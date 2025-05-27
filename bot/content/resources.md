@@ -1,0 +1,3 @@
+- [Документация python-telegram-bot](https://docs.python-telegram-bot.org)
+- [GitHub проекта](https://github.com/Alexander1337-absolute/telegram-bot-practice)
+- [Replit для хостинга](https://replit.com)
